@@ -1,0 +1,9 @@
+amount,mine,lent,balance,date,narration,type,lent_by,closing_balance,credit,reasoning
+35000.0,0.0,0.0,1118856.67,28/02/25,upi-prateek ranjan dutta-dada.prateek.00358@okhdfcbank-hdfc0004809-100743026595-rent maid plus 15k,input_amount,none,1118856.67,Y,none
+824.82,824.82,0.0,1118031.85,01/03/25,upi-www excitel com-excitel.payu@hdfcbank-hdfc0000499-100079521366-upi transaction,unknown,aws,1118031.85,N,
+79.0,79.0,0.0,1117952.85,01/03/25,upi-jiohotstar-hotstaronline@ybl-yesb0yblupi-506055997561-collect request fr,rent,none,1117952.85,N,The transaction amount of 79 is less than the threshold for food category and does not specifically mention family members. It aligns with the description of paying for mobile recharge which falls under rent.
+500.0,500.0,0.0,1117452.85,01/03/25,upi-sandhya fuel station-paytm-65718951@ptys-yesb0ptmupi-100786433017-upi,rent,none,1117452.85,N,
+10.0,10.0,0.0,1117442.85,01/03/25,upi-adigoppula shravan k-paytmqr5yzxcj@ptys-yesb0ptmupi-100787095809-upi,food,none,1117442.85,N,
+3000.0,3000.0,0.0,1114442.85,01/03/25,nwd-435584xxxxxx5455-id043212-hyderabad,rent,none,1114442.85,N,"The transaction amount of 3000 falls under the category of rent as it includes payments for mobile recharge and wifi. The user mentioned 'nwd-435584xxxxxx5455-id043212-hyderabad' which is a place, indicating it's related to house or property."
+90454.0,90454.0,0.0,1023988.85,01/03/25,upi-md arshad ahmed-itzzarshad19@okaxis-utib0000376-100795816337-half amount,unknown,none,1023988.85,N,
+1000.0,500.0,500.0,1022988.85,01/03/25,upi-jamalpur  vijay-q786072912@ybl-yesb0yblupi-100832556878-choclate room by 2,food,pallavi,1022988.85,N,"The transaction involves buying chocolate in a room, which is categorized under food. The amount spent is split between two people as indicated by 'by 2'. Therefore, each person contributed 500."
